@@ -1,0 +1,343 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The courts of justice corrected and amended. Or the corrupt lawyer untrust, lasht and quasht. Wherein the partiall judge, counsellour, great mover, whispering informer, favourite at the bar are fully displayed, convicted, and directed. By W.L. Esquire. Presented to the honourable House of Commons, and by them approved of.</title>
+            <title>Just lawyer his conscionable complaint against auricular or private informing and soliciting of judges.</title>
+            <author>Lambarde, William, 1536-1601.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88875</idno>
+            <idno type="STC">Wing L86</idno>
+            <idno type="STC">Thomason E108_31</idno>
+            <idno type="STC">ESTC R22218</idno>
+            <idno type="EEBO-CITATION">99871664</idno>
+            <idno type="PROQUEST">99871664</idno>
+            <idno type="VID">124077</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88875)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124077)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E108[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The courts of justice corrected and amended. Or the corrupt lawyer untrust, lasht and quasht. Wherein the partiall judge, counsellour, great mover, whispering informer, favourite at the bar are fully displayed, convicted, and directed. By W.L. Esquire. Presented to the honourable House of Commons, and by them approved of.</title>
+                  <title>Just lawyer his conscionable complaint against auricular or private informing and soliciting of judges.</title>
+                  <author>Lambarde, William, 1536-1601.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for George Lindsey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>W.L. = William Lambarde.</note>
+                  <note>Originally published in 1631 as: The just lawyer his conscionable complaint against auricular or private informing and soliciting of judges.</note>
+                  <note>Annotation on Thomason copy: "August ist 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judges --  England --  Early works to 1800.</term>
+               <term>Conduct of court proceedings --  England --  Corrupt practices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:124077:1"/>
+               <pb facs="tcp:124077:1" rendition="simple:additions"/>
+THE COVRTS OF IVSTICE Corrected and amended.</p>
+            <p>OR The Corrupt Lawyer untruſt, Laſht and quaſht.</p>
+            <p>Wherein The Partiall Iudge, Counſellour, Great Mover, whiſpering Informer, Favourite at the Bar are fully diſplayed, convicted, and directed.</p>
+            <p>By <hi>W. L.</hi> Eſquire.</p>
+            <q>
+               <bibl>COKE lib. 6. 47.</bibl>
+               <p>
+                  <hi>Multa conceduntur per obliquum, quae non conceduntur de directo.</hi>
+               </p>
+            </q>
+            <p>Preſented to the Honourable Houſe of Commons, and by Them approved of.</p>
+            <p>London, printed for <hi>George Lindſey.</hi> 1642.</p>
+            <pb facs="tcp:124077:2"/>
+         </div>
+         <div type="publisher_to_the_reader">
+            <pb n="3" facs="tcp:124077:2"/>
+            <head>THE PVBLISHER TO THE PERVSER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He difference of mens diſpoſitions and degrees, (as we may dayly note) produceth different Ef<g ref="char:EOLhyphen"/>fects, as welin reproving vices, &amp; in approving Vertues, as on the contrary: Every one expreſ<g ref="char:EOLhyphen"/>ſing himſelfe by Lips or Letters, according to the ſuggeſtions of that good or evill ſpirit, whereby he is induced or ſeduced.</p>
+            <p>This man being of a temperate and ſober qualitie envies a<g ref="char:EOLhyphen"/>gainſt Riotouſneſſe and Intemperance. That man addicted to labour and thriftineſſe, accuſeth our faſhion-following Gentry of Sloth and Prodigalitie: So (in particular) the Author of this Treatiſe, ſpending his dayes in the ſtudy and practice of the Law (wherein hee grew to ſuch proficiencie alwayes dire<g ref="char:EOLhyphen"/>cted by integritie, as made him famous both for learning and honeſtie, whoſe name nevertheleſſe for ſome cauſes I conceale) many yeares ſithence, as one pathetically moved with the cor<g ref="char:EOLhyphen"/>rupt courſes uſed, and the exceſſive Bribery affected in thoſe dayes by his Brethren learned in the Lawes, eſpecially the more eminent ſort, and the continuall condeſcending or proclivitie of the Judges, not onely to their unjuſt motions, but to the pri<g ref="char:EOLhyphen"/>vate and undue ſollicitations of their owne Menials, beſides their Friends and Favourites at large; and their partiall profering or hearing of ſome Heads before others at the Barre of Ju<g ref="char:EOLhyphen"/>ſtice, whereby many a Client in his juſt cauſe hath ſuffered
+<pb n="4" facs="tcp:124077:3"/>
+wreck &amp; periſhed contrary to Law, al equity &amp; good Conſcience. That black Swan or honeſt Lawyer, ſpared ſometime from his o<g ref="char:EOLhyphen"/>thers ſtudies to pen theſe Animadverſions; which albeit the ſame cannot extend, nor may any way enure unto the leaſt impeach<g ref="char:EOLhyphen"/>ment or contumely of our honorable Judges in theſe times (who I ingenuouſly acknowledge, and fame declares to be of a moſt reformed and unimpeachable condition) yet may it ſerve as a Caveat and humble Information to the uprightneſſe of them and their Succeſſors, for the preventing and avoiding of the like a<g ref="char:EOLhyphen"/>buſes to be offered by their friends of followers, or by any ſuch ill-conſcienced Advocates (whereof there are too too many (I feare) ſtill abiding or new ſtarted up) and alſo as a <hi>Memento,</hi> for all men to note the plauſible and happy alteration in Courts and courſes of Juſtice, the ancient with the modern proceedings duly compared. And likewiſe all thoſe Treſpaſſers viewing (as in a glaſſe) their owne deformities (or rather enormi<g ref="char:EOLhyphen"/>ties) herein ſo lively repreſented and publiquely declared may happily be incited, either for feare of ſhame, or for the gaine of an honeſt name to become conſcionable Convertites And for my part, with and in favour of every well-meaning and abuſed Client, I wiſh all ſuch Lawyers to be ſpeedily converted or ſub<g ref="char:EOLhyphen"/>verted; and ſo conclude.</p>
+            <pb n="5" facs="tcp:124077:3"/>
+            <lg>
+               <head>Editor Benevolus ad Cauſi<g ref="char:EOLhyphen"/>dicum iniquum.</head>
+               <l>Nec <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e vulgantem reprehendas, has neque charta,</l>
+               <l>Ne tua te vulget lingua malignareum.</l>
+            </lg>
+            <lg>
+               <head>Ad librum.</head>
+               <l>Te nolunt culpare boni bonitatis amore:</l>
+               <l>Te nolunt culpare mali formidine probri.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <head>Animadverſions upon Courts of Iuſtice.</head>
+            <p>ALl Lawes both divine &amp; humane, &amp; all the Counſells of lear<g ref="char:EOLhyphen"/>ned &amp; vertuous polititians, do concur &amp; joyn in this point, that it is the office of an upright Judge, <hi>Inveſtigare verum,</hi> to trace out the very truth of the cauſe in Judgement before him, <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſe<g ref="char:EOLhyphen"/>cundum veritatem ſententiam dicere,</hi> and give ſentence according to the truth. So in doing that office he ought not to reſpect the perſon of any, but altogether to ſet up for his marke the Cauſe with the circumſtances thereof, being aſſured, that <hi>Qui<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quide<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tra cauſam eſt, perſona eſt.</hi> And therefore the Embleme of a Judge was rightly pourtrayed with wide ears, but without eyes at all; to denote that he ought fully and patiently to heare the whole Cauſe, but not affectionately to reſpect any party that hath to meddle therein. <hi>Altera<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uris Accuſateris, altern R<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> eſt reſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vanda.</hi>
+            </p>
+            <div type="part">
+               <pb n="6" facs="tcp:124077:4"/>
+               <head>The purpoſe of a whiſperious Informer.</head>
+               <p>ON the other ſide the very drift of a whiſpering Informer, is either to allure the Judge from that Indifferencie, which he ought equally to nouriſh between both parties in ſuit, to a par<g ref="char:EOLhyphen"/>tiall diſpoſition in favour of the one aganinſt the other of them; or otherwiſe to ſhore up the Judge, (as it were) when he ſuſpe<g ref="char:EOLhyphen"/>cteth his inclination to the adverſarie. In both, which he bewray<g ref="char:EOLhyphen"/>eth an unreverend conceit and opinion of the Judge, whom in the Court of his owne heart he hath already condemned of In<g ref="char:EOLhyphen"/>fidelitie; in the one, becauſe he ſuſpecteth him to be drawne a<g ref="char:EOLhyphen"/>way to his disfavour; in the other, becauſe he hopeth to winn and fit him to his owne bent and deſire. And <hi>Mur<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> aheneus</hi> a wall of braſſe, whom neither the wind of ſecret ſollicitation, nor the ſtorme of mighty threats, nor the ſhowre of Crocodillian teares ought once to remove, ſhake or mollifie. For if this In<g ref="char:EOLhyphen"/>former were rightly perſwaded of the integritie of the Judge; what neceſſity can he pretend to ſollicite? what reaſon can he yeeld why he ſhould not permit them to ſit downe and reſt in his owne ſinceritie? Yea, why ſhould he endevour to move him, (for ſo they terme it) unleſſe he thought him to be light and movable, or finally to what end doth he cauſeleſly waſte his own labour, and vainely obtund the cares and interpell the Affaires of him?</p>
+               <p>How ſpeciouſly ſoever therefore theſe our Cabinet Inchanters ſhall pretend in words, either that they deſire none other than Lawful favour (a thing that is not indeed, ſince Law is indiffe<g ref="char:EOLhyphen"/>rent, and favour partiall) or that they ſeeke onely the good and equall conſcience of the Iudge, (which they might find with<g ref="char:EOLhyphen"/>out labour) or that they ſue for expedition onely, or that the Cauſe may be adviſedly weighed, both which (in moſt of theſe caſes) were but to plague their owne Client. Or that (according to the anciently allowed manner of intreating a
+<pb n="7" facs="tcp:124077:4"/>
+Judge) they require no more at his hands, but <hi>quot ſalva fide facere poſſit,</hi> that which he may doe with the ſafety of his duty; yet is there evermore an irreconcilable diſſention between Juſtice and their deſire, who (what ſemblance ſoever they make to the contrary) doe indeed hawke and hunt the game o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fa<g ref="char:EOLhyphen"/>vor, to the endangering of their owne conſcience, and the wrong of the one of the parties; and that both with the diſhonour and deceit of the man that (ſitting in the place of God) ought to de<g ref="char:EOLhyphen"/>liver even and upright Juſtice to all that come before him: And ſo are all their ſacred ſpeeches but Syrenean voyces, the poyſon of Aſpes, and the very quinteſſence of abuſe and corruption.</p>
+            </div>
+            <div type="part">
+               <head>The ſorts of Informers.</head>
+               <p>BUt now more particularly. As theſe Chambers be either the very parties in ſuit, or their friends; and thoſe friends either favorites at large to the Judge, are ſome of his owne Menials or followers, or elſe be privy and of Councell with thoſe parties? So is there great difference in the venomous forces of their ſe<g ref="char:EOLhyphen"/>verall ſollicitations.</p>
+               <div type="section">
+                  <head>The Partie.</head>
+                  <p>FOr as touching the very parties, they doe carry their owne diſcredit in their mouths with them, and cannot greatly pre<g ref="char:EOLhyphen"/>vaile (unleſſe they bring the <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>gion of reward) becauſe they ſpeake for themſelves in a matter of profeſſed and knowne enmi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ie. And yet the Romane Lawes, miſliking all ſuch audacious im<g ref="char:EOLhyphen"/>portunities, did puniſh <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, both <hi>Actorem &amp; reum,</hi> that by any ſubtle prayers attempted the Judge in his houſe or elſ<g ref="char:EOLhyphen"/>where without the Court. See <hi>D. F. H. ad leg. Iul. de Ambitu</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="8" facs="tcp:124077:5"/>
+                  <head>The Friend at large.</head>
+                  <p>MOreover their favorites at large, that be neither of Coun<g ref="char:EOLhyphen"/>ſell not houſhold, as they have not (for the meaner ſort of them) the opportunitie or advantage to worke any great harme, ſo doe they alſo many times ſpeake but coldly, and as it were for faſhion ſake, to ſatisfie the ſuit of their Clients, who otherwiſe would thinke themſelves forſaken by them.</p>
+               </div>
+               <div type="section">
+                  <head>Great Movers.</head>
+                  <p>BUt if thoſe Favorites be perſons of eſtate (whoſe deſires cary their weight) officers of great places (who be able to interchange pleaſures) or men for any reſpect, lodged in the bo<g ref="char:EOLhyphen"/>ſome of the Judge, then ought they ſo much the more to forbeare him, as they be more likely then others to allure and winne him to their deſire, becauſe they bring no warrant of a good con<g ref="char:EOLhyphen"/>ſcience to aſſure them that they ſpeake but for the one partie, ſo know they but the one halfe of the buſineſſe at the moſt, and wot not whether they promote Juſtice or place Injury, whether they ſuccour the afflicted or joyne with the oppreſſor: Neither is it enough in this caſe to pretend that they are moved by their commiſeration towards the poore (as know that many keepe for their defence) for what is that to the Judge, who is a Judge, is utterly forbidden to behold the face of the poore? Or what maketh that to their owne deliverance, when many (if not moſt) of the poore which follow ſuits, can both bite and whine, <hi>(ut vulgo dicitur)</hi> and then a many of which there is nothing more unquiet, clamorous and wretchedly wrongfull.</p>
+                  <p>But of all the reſt, the Meniall and Counſellors are moſt per<g ref="char:EOLhyphen"/>nitious, and yet whether of them is more peſtilent; I cannot de<g ref="char:EOLhyphen"/>termine, but due leave to the judgement of the Judge himſelfe that is haunted with them.</p>
+               </div>
+               <div type="section">
+                  <pb n="9" facs="tcp:124077:5"/>
+                  <head>The Menial.</head>
+                  <p>THe Menial or Familiar, if he may finde the grace be in the eye<g ref="char:punc">▪</g> and to ſtand at the elbowe of his Maſter, (eſpecially in the cloſet) then ſhall he not want his Suitors, and then alſo will he take the courage to boord his Maſter, not onely in lawfull Pe<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ions, but alſo in Cauſes meerely Judiciall, and by reaſon that he is neere at hand to take hold of every advantage, and may beſt watch both the time, the place, and good cheare of his Lord, and the abſence of the Adverſarie and of his friends, he will make his gaine thereby both in jeſt and earneſt, though now and then he doe but <hi>Fumum vendere,</hi> ſell ſmoke, and pay Alchymy for good and currant money: for of theſe, ſome will ſoone raiſe or abuſe the name of their Maſters, (as it were by way of a meſſage to others, where it may prevaile) then take the paines to ſpeake unto himſelfe, leſt they diſcover a ſuſpition that they were hired for mony. By theſe &amp; ſuch other meanes the innocent Judge, like to <hi>Actaan,</hi> becommeth <hi>praeda canibus,</hi> de<g ref="char:EOLhyphen"/>voured of his owne dogges, who care not what diſhonourable <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ame they caſt upon him (whom they are moſt bounden to ho<g ref="char:EOLhyphen"/>nour) ſo as they may reape the harveſt of their moſt greedy and ravenous <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>: For as theſe men commonly cannot judge of the State of a cauſe in controverſie, ſo neither do they greatly care whether that partie which they favor, be right or wrong; but doe onely faſten their eye upon the money, which may be coy<g ref="char:EOLhyphen"/>ned out of it, accounting that bootie as a reward of their good ſervice, where with they run away as glad as doth the dogge with a bone. And in this part, ſome of them be ſo miraculous Machiavellious, that they are able to expreſſe two ſundry liquors out of one ſame veſſell, making their owne profit, by both the parties, to one ſame ſuit and controverſie.</p>
+               </div>
+               <div type="section">
+                  <head>The Counſellor.</head>
+                  <p>THe Councellor like wiſe having firſt inſinuated himſelfe and become inward with the Judge by the benefit of kindred, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> recommendations of great perſons, former education
+<pb n="10" facs="tcp:124077:6"/>
+and acquaintance, or by his owne obſequie he will forthwith ſet up his cr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt, he ſhal be followed with a cloud of Clients and waged trebble more than men of better merit: yea, he ſhall be heard at the Barre, when they ſhall be wearyed in war<g ref="char:EOLhyphen"/>ting there, happy is he can get him retaind on his Councell, and <hi>Fertunae filius omnes,</hi> every man will call him fortunes owne darling, and if he be of that abilitie, that he can bring the Judge to be his fee-man (or penſioner) under colour of a yearly new<g ref="char:EOLhyphen"/>years gift, or may ſinde the meanes to poſſeſſe the Judge with the loane of ſome hundreds of pounds, without taking any in<g ref="char:EOLhyphen"/>treſt therefore, then ſhall he cote all other pra<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ers, then may no doore be kept againſt him, then ſhall he be a Gueſt at the Judges table, and ſhall be admitted private both in the Cloſet and alſo in the Bed-Chamber. And yet in the meane time, is that money (ſo lent) laid out to the moſt extreme uſurie? For all things reckoned, it ſhall by his increaſe of Clients, yeeld him a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the years end <hi>Centum pro Cent.</hi> or a better penny.</p>
+                  <p>Now albeit, this man may not compare with the Meniall be<g ref="char:EOLhyphen"/>fore, in taking the ſtart and watching of all <hi>bon heurs</hi> and oppor<g ref="char:EOLhyphen"/>tunities, yet through his learning and other parts (which the o<g ref="char:EOLhyphen"/>ther wanteth) he may nip a Cauſe in the head, or ſting it to the heart as ſoone as he. It hath beene ſeene that ſome of theſe Bell-weathers, perceiving their Clients buſineſſe unable to en<g ref="char:EOLhyphen"/>dure the hammer of open hearing, have adviſed him to beſtow ſome ſcore of pounds or ſlight of Angels upon the Judge, to work it to ſome better end, and offered themſelves to preſent my Lord therewithall; and yet peradventure have ſuffered it by the way to drop into their owne pockets for a reaſonable Supply of fees forgotten.</p>
+                  <p>Thus, as you ſee, is the Integritie of this gentle Judge drawne firſt into ſuſpition, and after that, into open obloguies, the one and the other growing by his owne facilitie, and by giving care to thoſe buzzing flies and hiſſing adders; his good quiet and repoſe is alſo interrupted by often obtunding that in his privy Cloſet, which hee might diſpatch with once hearing in o<g ref="char:EOLhyphen"/>pen Court; the Cauſe of the honeſt Suitor muſt either take wrong, or els muſt be alſo (againſt his wil &amp; good Conſcience, be<g ref="char:EOLhyphen"/>ſides
+<pb n="11" facs="tcp:124077:6"/>
+his greater charge) finde out ſome <hi>Oliver</hi> to withſtand this <hi>Rowland</hi> of his adverſary. Theſe Cormorants are crammed even to the full-filling of their greedy gulfe, the ſcale of Ju<g ref="char:EOLhyphen"/>ſtice ſuffereth reproach. The Judge himſelfe is laid open to the danger of any ſtirring enemie, that will ſift or fanne him. The Prince of the people being the well-head of Juſtice, is a<g ref="char:EOLhyphen"/>buſed in his vicarie: good men ſobbing for griefe, and naughty packs laughing in their ſleeves at it, who alſo doe evermore re<g ref="char:EOLhyphen"/>quite ſuch their misbegotting favour with this thankfulneſſe, that their tongues doe continually itch untill they have blabbed a<g ref="char:EOLhyphen"/>broad all the manner and meanes of atchieving their injurious deſires and corrupt Conqueſts.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Remedie.</head>
+               <p>THe Remedie of all which evils is ſo eaſie, that the ſame is not onely at hand, but in the very hand and power of the Judge himſelfe: For if he be willing to maintaine the authori<g ref="char:EOLhyphen"/>tie and countenance of his call, he may <hi>Alto vult<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> with a lofty looke take it unkindely at the hands of his Better, equall or inferiour friends; blaming them with the touch of his Credit, for their ſo unadviſed tampering with him in matter of his iudi<g ref="char:EOLhyphen"/>ciall and ſworne dutie: Hee may alſo with one word of his mouth command his owne curres to couch, and to ceaſe their barking: Hee may likewiſe ſend the Suitor to the Court, and his Counſellour to the Barre, and conſequently rid himſelfe and houſe of all this unquiet kennell, and thereby redeeme many a good houre, which he may beſtow partly for his needfull recre<g ref="char:EOLhyphen"/>ation, and partly in the ſtudie and meditation of ſuch matters as be ſerviceable for the place that he holdeth:</p>
+               <p>
+                  <hi>Objection.</hi> But now, if this Juſticer will juſtifie himſelfe and ſay, that howſoever the way ſeeme to lend his outward care to thoſe importunities, (the which it is hard in theſe laſt and worſt dayes for any man to avoyd that meaneth not to be at difference or war with all the world) yet notwithſtanding his heart is up<g ref="char:EOLhyphen"/>right, and that he doth and will doe according to the exigencie of his oath and office.</p>
+               <p>
+                  <pb n="12" facs="tcp:124077:7"/>
+                  <hi>Anſwer.</hi> Let him alſo give me leave to ſay with the merry Poet, <hi>Credat Iudaeus Ap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, non ego,</hi> for as it is hardly credible, that a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y caſtle which is continually battered, ſhould not be ta<g ref="char:EOLhyphen"/>king at length, or that any woman which admitteth all whores, ſhould not apply to ſome one<hi>:</hi> So can this man never excuſe himſelfe to the world-ward, but that by ſuch affabilitie and rea<g ref="char:EOLhyphen"/>dy care he mini<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eth juſt ſuſpition of ſwerving from the Levell of true Juſtice, and that he giveth paſſage that he playeth <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> being no ſmall cauſe that himſelfe is ſo vexed and miſpendeth his time.</p>
+               <p>If he will reply and ſay, that to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt of this Cauſe before the hearing avail<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th no leſſe to his in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion, then to the ſpeed of the ſervice? I will acknowledge it; ſo as the ſame be done in<g ref="char:EOLhyphen"/>differently; but how that may be performed without the pre<g ref="char:EOLhyphen"/>ſence of both the parties, or of their Counſell, faine would I learne; For to place the one ſide alone were (in a matter judi<g ref="char:EOLhyphen"/>ciall) to be poſſeſt with prejudiciall conceit, and to heare them ſuddenly, were beſides the loſſe of time, but to be willingly abu<g ref="char:EOLhyphen"/>ſed, ſince either ſide may (at liberty) offer what he will if the other be not preſent to confront him. Nay, the world that is now a dayes curious and ſharp-ſighted, doth well enough per<g ref="char:EOLhyphen"/>ceive, that evermore after ſuch crafty ſuggeſtions ſo appre<g ref="char:EOLhyphen"/>hended, the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> keepeth not the alley, but <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>yeth out by one <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ranke or other: So as though the Cauſe in queſtion taketh not a direct or downe-right blow by judgement in Court, yet ſhall it (by ſome obliquitie) crawle away with the backe there<g ref="char:EOLhyphen"/>of broken, whether it be by reaſoning it to a private hearing, by drawing it to a long and tedious proſecution, by committing it to a partiall report, by referring it to ſome unequall arbitrement, or by one or other indire<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t thwart, that ſhall carry no l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe inju<g ref="char:EOLhyphen"/>ſtice with it, then if the judge himſelfe were utterly corrupted and perverted.</p>
+            </div>
+            <div type="part">
+               <head>Admonition to all ſorts</head>
+               <p>TO conclude therefore, let everie good and true Friend, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of the Judge (if at the leaſt they be
+<pb n="13" facs="tcp:124077:7"/>
+deſirous to maintaine the fame of his integritie) hold it ſo<g ref="char:EOLhyphen"/>meere ſacriledge and profanation of juſtice, once to attempt him in the part of his juriſdiction, which ought to be unto him a moſt chaſt and undefiled virgin. Let them alſo look to them ſelves, and not only weigh (as I ſaid) with what good warrant of conſcience they thus interpoſe themſelves in a matter to them hardly halfe knowne; but alſo (remembring that it is forbidden maintenance by the Law of their Countrey, to em<g ref="char:EOLhyphen"/>brace a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urie, to ſollicite a Iurour, to fee a Counſellour, or to give countenance at the Bar in another mans ſuit) let them (I ſay) conſider of what nature it is, and what it deſerveth to la<g ref="char:EOLhyphen"/>bour, ply, and wreſt the Iudge: Counſellours alſo muſt keep their proper ſtation; and containe themſelves within the duties of their calling, for they know, that howſoever they repreſent the verie parties, and ought to aſſiſt them; yet that muſt be <hi>uſque ad aras,</hi> and they may not be feed againſt a known truth; for the beating out whereof (that it may be ripened for judge<g ref="char:EOLhyphen"/>ment) they be uſed as neceſſarie and moſt lawfull inſtruments. So far oſt it is, that they ſhould abuſe their learning, wiſdome, eloquence, and other gifts, to the perverting of truth, and ſub<g ref="char:EOLhyphen"/>verting of right, by ſeduction or corrupting of the Iudge, that holdeth the beame of the Cauſes in Balance. As for the Iudge himſelfe, let him not feare to lanch his boat into the deep, where is Sea-roome ſufficient, and let him reſt upon God (whoſe image he is) and ſtir up thoſe Divines Talents which he hath received, utterly forbearing to ſaile neere the Shallow and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of this moſt dangerous Sollicitation: So may his Prince joy in the choyce of him, ſo may hee march on cheerfully, maugre whatſoever enemie; ſo may good men truſt unto him in their calamitie, as to an holy Anchor: So ſhall not the wicked dare to approach his Court or preſence: Iuſtice ſhall conſerve her due honour, and upright judgement ſhall ſtand faſt and un<g ref="char:EOLhyphen"/>moveable.</p>
+            </div>
+            <div type="part">
+               <head>An Appendix with Objections against Favourites at the Bar of Iuſtice.</head>
+               <p>The juſt reſpects, for which one Practiſer at the Bar may be heard before another, to my underſtanding, are theſe two:</p>
+               <p>
+                  <pb n="14" facs="tcp:124077:8"/>
+One in regard of the Client, and another in reſpect of the Cauſe.</p>
+               <p>A motion in the behalfe of a poore perſon, of a weak widow, of a fatherleſſe child, or of a publike Servitour in a Common<g ref="char:EOLhyphen"/>wealth, is in hearing to be preferred before the cauſes of ſuch as be rich, well aſſiſted, of diſcretion, or private perſons.</p>
+               <p>The Cauſe it ſelfe alſo may deſerve preferment, either in con<g ref="char:EOLhyphen"/>ſideration of the prioritie of time that it hath in Court, or for the imminent danger in which it may ſtand, if it be not ſpeedily heard.</p>
+               <p>But that any Counſellour ſhould be heard before other, in re<g ref="char:EOLhyphen"/>gard of his perſon alone, without beholding the Cauſe or Client, hardly may any ſound reaſon be aſſigned: And of that undue fa<g ref="char:EOLhyphen"/>vour, theſe evils amongſt others do enſue:</p>
+               <p>Firſt, by that ready lending of the eare to ſome onely, or to them chiefly, thoſe only ſuits are expedited, which theſe few ſelected perſons do undertake; and in the meane ſpace, all other cauſes are ſuſpended, albeit they have prioritie of time, or other good reaſon of preferment: the which unneceſſarie (or rather voluntarie) delay is meere injuſtice, ſince juſtice conſiſteth not only in the deliverie of right, but alſo in affording the ſame with all agreeable and due expedition.</p>
+               <p>Secondly, by making ſuch choyſe of a few Favourites, other good Practitioners in the Law are diſcouraged, to the great loſſe and griefe, as well of them in their owne particular, and of ma<g ref="char:EOLhyphen"/>ny toward Students, that are thereby taught to ſeek favour more than to reſt upon ſound knowledge, as alſo of as many Clients as doe repoſe themſelves and their ſuits upon the fidelitie and good learning of thoſe, which ſeek not the influence of the like favourable aſpect.</p>
+               <p>Thirdly, the culling, and cheriſhing of Favourites, draweth the Favourer into ſuſpition of corrupt partialitle, eſpecially if the Favoured be not of better gifts and ornaments by Art and Nature than other men, as many of them are not found to be.</p>
+               <p>Fourthly, godly and vertuous Practitioners will not uſe unlaw<g ref="char:EOLhyphen"/>full meanes for the gaining of this favour, the which (without ſiniſter practice) is not alwayes vouchſafed; and then belike
+<pb n="15" facs="tcp:124077:8"/>
+the worſt ſort of men do endevour that way, and then alſo are Cauſes for the moſt part put into the hands and mouths of ſuch as be unworthy to touch them. For it is no ſmall furtherance to juſtice, when Cauſes be managed by men of modeſtie.</p>
+               <p>Fifthly, when theſe few do find, that they ſhall be heard, and others holden off, they advance a Monopoly of practice in Law, enhancing the market of Fees, by delay of their Clients, untill they will apply to ſerve their greedineſſe: So as the Noble or Ryall (which within memorie was an uſuall reward for a Coun<g ref="char:EOLhyphen"/>ſellour) is now riſen to 4 l. 5 l. 20 Nobles, or 10 pounds with ſome: whereby alſo Suits are drawne out in length, and do re<g ref="char:EOLhyphen"/>bound to the blame of the Judge, that is Cauſer and Continuer of theſe evils.</p>
+               <p>Sixthly, what unbridled boldneſſe (or rather audacious petu<g ref="char:EOLhyphen"/>lancie) accompanieth this unworthily-beſtowed favour, is daily ſeene by the demeanours of theſe ſpeciall men at the Bar, where they forget not only common civilitie to their Equals and Bet<g ref="char:EOLhyphen"/>ters, but alſo that regard to the Judge and Court, which ſober men are wont and bounden to anſwer: Many of them alſo not forbearing to betray their owne Clients, when (after acquain<g ref="char:EOLhyphen"/>tance with the inwards of their Cauſes, and much money <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il<g ref="char:EOLhyphen"/>ked from them) they ſhame not (for a little better pay) to become Swart-rutters, and to go into the Tents of the Enemy; of which fault theſe latter yeares have yeelded too too many (and the ſame moſt ſhamefull) examples.</p>
+               <p>Seventhly, as vertues, ſo vices be chained together; ſo as by the motion of one link, the reſt are ſtirred: And therefore this unequall Selection draweth this further Invenience with it, that the Favourite (emboldened by this preheminence) moveth fur<g ref="char:EOLhyphen"/>ther, and taketh courage to ſollicite the Judge at his houſe or chamber, whereto if God ſuffer him to encline, then receiveth hee juſt correction for the firſt favour ſo unwiſely diſpoſed by him.</p>
+               <p>Eighthly, this gracing of a few (eſpecially at the Bars of En<g ref="char:EOLhyphen"/>gliſh Courts) bringeth forward ſuch as have <hi>animam in lingua,</hi> making them preſume upon their vaine loquacitie, and to make no account of ſubſtantiall learning. And here againe, Cauſes do
+<pb n="16" facs="tcp:124077:9"/>
+loſe the time, which theſe men doe conſume in idle and vagrant diſcourſes, digreſſing from the true points of the controverſie. Beſides which, the Judge himſelfe is in perill to be inveigled, and hawne out of the way.</p>
+               <p>Ninthly and laſtly, I may add that theſe men (bleſſed with ſuch favour in the eyes of the Iudge) do at their departure, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> into their countries, carrie the badge thereof in their fa<g ref="char:EOLhyphen"/>ces, bea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing countenance, and ſeeking credit above others; where alſo they will do no leſſe (if not more harme) than they are before charged to have committed here.</p>
+            </div>
+            <div type="part">
+               <head>Now for the removing of this Malady, you may uſe the rece<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t following.</head>
+               <p>TAke an head-full of Diſcretion, and chooſe out a convenient handfull of the freſheſt Flowers that do grow in the Gar<g ref="char:EOLhyphen"/>den of the Law, within quarters of the Houſes of Court: Ad<g ref="char:EOLhyphen"/>mit theſe only for practice at Weſtminſter, being firſt well tried and fanned from ſuch duſt and droſſe, as may either yet remaine a ſtudy, or be meeter to keep their chambers, for directing of Cauſes in Suits, arguing of Caſes in Demurrers, or naming of Books of all ſorts, or to ſerve for Recorders in Cities or Town<g ref="char:EOLhyphen"/>wikes incorporate, or to ſupply to Stewardſhip of Leets, or other rurall Courts: Then draw thoſe firſt forth againe, tho<g ref="char:EOLhyphen"/>row a fine ſtrainer, and (according to their ſundry gifts and growths) ſort them, and apply them to each Bar, and affected place at Weſtminſter; the heavie, for the Kings Bench and Exchequer; and the lighter for the Engliſh Courts; Change and ſupply them, as oft as need ſhall be hearing them (alwayes in the meane time) with good indifferencie, and ſo as neither <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſwell, no others do ſhrink or faint, And by Gods grace you ſhall ſoon perceive the griefe to depart.</p>
+               <trailer>
+                  <hi>Proba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um est.</hi>
+               </trailer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
